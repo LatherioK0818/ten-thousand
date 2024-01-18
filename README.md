@@ -58,9 +58,3 @@ The project extends the Ten Thousand dice game by:
 - Document the actual code received from the AI.
 - Record any subsequent prompts for changes.
 - Note: Failing to provide this file will result in the assignment not being graded.
-
-© Code Fellows 2024
-
----
-
-Modify and add details as necessary to match the specific requirements and progress of your project.
