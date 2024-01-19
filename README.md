@@ -10,8 +10,8 @@ This lab involves working in pairs to develop a command line version of the dice
 # **Links and Resources**
 
 [Zach's Repo](https://github.com/JamaisVu1/ten-thousand.git)
-[Latherio's Repo]()
-
+[Latherio's Repo](https://github.com/LatherioK0818/ten-thousand)
+gitgi
 ## **Setup**
 
 `.env` requirements (where applicable):
