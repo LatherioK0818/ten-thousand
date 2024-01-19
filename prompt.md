@@ -51,6 +51,7 @@ calculate_score is a placeholder that simply sums the values of the dice roll. Y
 Remember to replace the scoring logic in calculate_score with the rules specific to your game.
 
 # User
+
 these are the scoring rules:
 Single 5's	50
 Single 1's	100
